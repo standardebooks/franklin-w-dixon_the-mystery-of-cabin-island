@@ -52,9 +52,8 @@
 		<meta property="group-position" refines="#collection-1">8</meta>
 		<dc:description id="description">The Hardy boys and their pals unravel the mystery of a missing stamps collection.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>While trying to plan what to do for the winter holidays, the <a href="https://standardebooks.org/collections/the-hardy-boys">Hardy boys</a> are heartily rewarded for their prowess in solving crimes by Mr. Jefferson, an eccentric antiques dealer and a victim of the carjackers from <i><a href="https://standardebooks.org/ebooks/franklin-w-dixon_the-shore-road-mystery">The Shore Road Mystery</a></i>. Allowing the boys and two of their friends to vacation on his island, the fun outing soon starts takes a turn for the worst: among missing supplies, a snow storm, and a shady figure named Mr. Haneligh who keeps trying to assert his authority over the island, the boys realise that there may be more to the eccentric old man and his past than they first thought.</p>
-
-			<p>This book was published in 1929 and then rewritten in 1966. This Standard Ebooks edition follows the original 1929.</p>
+			&lt;p&gt;While trying to plan what to do for the winter holidays, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; are heartily rewarded for their prowess in solving crimes by Mr. Jefferson, an eccentric antiques dealer and a victim of the carjackers from &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon_the-shore-road-mystery"&gt;The Shore Road Mystery&lt;/a&gt;&lt;/i&gt;. Allowing the boys and two of their friends to vacation on his island, the fun outing soon starts takes a turn for the worst: among missing supplies, a snow storm, and a shady figure named Mr. Haneligh who keeps trying to assert his authority over the island, the boys realise that there may be more to the eccentric old man and his past than they first thought.&lt;/p&gt;
+			&lt;p&gt;This book was published in 1929 and then rewritten in 1966. This Standard Ebooks edition follows the original 1929.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75012</dc:source>
@@ -74,20 +73,20 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Walter_S._Rogers</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">http://id.loc.gov/authorities/names/no2011171107</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-			<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
-			<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
-			<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdpcanada.net</meta>
-			<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-			<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
-			<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
-			<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdpcanada.net</meta>
-			<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-			<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada Team</dc:contributor>
-<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada Team, The</meta>
-<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net</meta>
-<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-<dc:contributor id="producer-1">Elizabeth Miller-Boldt</dc:contributor>
-<meta property="file-as" refines="#producer-1">Miller-Boldt, Elizabeth</meta>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdpcanada.net</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdpcanada.net</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Elizabeth Miller-Boldt</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Miller-Boldt, Elizabeth</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
