@@ -14,3 +14,7 @@
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
+
+#chapter-13 blockquote:nth-of-type(6){
+	font-variant: small-caps;
+}
