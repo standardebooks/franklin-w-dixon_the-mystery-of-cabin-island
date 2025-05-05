@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-13.xhtml">
-		<ignore>
-			<code>t-029</code>
-			<reason>This is a cipher. All letters will be made uppercase per CSS.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
