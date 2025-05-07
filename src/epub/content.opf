@@ -75,14 +75,12 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canadav</meta>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Elizabeth Miller-Boldt</dc:contributor>
