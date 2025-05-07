@@ -15,16 +15,19 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
-#chapter-13 blockquote:nth-of-type(5),
+#chapter-13 blockquote:nth-of-type(6),
 #chapter-18 blockquote{
 	text-align: center;
+	text-transform: uppercase;
+}
+
+#chapter-18 b{
 	text-transform: uppercase;
 }
 
