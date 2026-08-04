@@ -52,7 +52,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">8</meta>
-		<dc:abstract>A group of amateur detectives unravel the mystery of a missing stamps collection.</dc:abstract>
+		<meta property="schema:abstract">A group of amateur detectives unravel the mystery of a missing stamps collection.</meta>
 		<dc:description>
 			&lt;p&gt;While trying to plan what to do for the winter holidays, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; are heartily rewarded for their prowess in solving crimes by Mr. Jefferson, an eccentric antiques dealer and a victim of the carjackers from &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery"&gt;The Shore Road Mystery&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;Mr. Jefferson allows the boys and two of their friends to vacation on his island, but the fun outing soon takes a turn for the worse: among missing supplies, a snow storm, and a shady figure named Mr. Haneligh who keeps trying to assert his authority over the island, the boys realize that there may be more to the eccentric old man and his past than they first thought.&lt;/p&gt;
